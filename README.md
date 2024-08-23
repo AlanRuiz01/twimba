@@ -18,7 +18,8 @@ The Frontend Developer Career Path aims to teach you everything you need to beco
 
 Happy Coding!
 
-[alt text](image.png)
+ ![DSADSAD](https://github.com/user-attachments/assets/8450455f-21ce-4615-a0da-8aa4ac26084d)
+
 
 
 I have finished 2 stretch test goals that is the posibility of do comments and delete.
